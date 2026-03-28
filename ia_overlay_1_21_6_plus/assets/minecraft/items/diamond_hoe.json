@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:item/diamond_hoe"},"entries":[{"threshold":10000,"model":{"type":"model","model":"elitecreatures:wukong_animated/hoe"}},{"threshold":10001,"model":{"type":"model","model":"item/diamond_hoe"}}]},"oversized_in_gui":true}
