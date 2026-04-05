@@ -4,10 +4,10 @@
 #moj_import <minecraft:dynamictransforms.glsl>
 
 //%START_CUSTOM_ARMORS_VARS%
-#define V1 32
+#define V1 16
 #define V2 50
-#define TEX_WIDTH 640
-#define TEX_HEIGHT 64
+#define TEX_WIDTH 128
+#define TEX_HEIGHT 32
 //%END_CUSTOM_ARMORS_VARS%
 
 uniform sampler2D Sampler0;

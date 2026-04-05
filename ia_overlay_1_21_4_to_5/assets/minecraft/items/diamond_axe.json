@@ -1,1 +1,0 @@
-{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:item/diamond_axe"},"entries":[{"threshold":10000,"model":{"type":"model","model":"elitecreatures:wukong_animated/axe"}},{"threshold":10001,"model":{"type":"model","model":"item/diamond_axe"}}]},"oversized_in_gui":true}

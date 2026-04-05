@@ -1,1 +1,0 @@
-{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/gray_dye"},"overrides":[{"predicate":{"custom_model_data":1001},"model":"mmoitems_pack:item/ia_auto/grimoire_of_the_damned"},{"predicate":{"custom_model_data":1002},"model":"mmoitems_pack:item/ia_auto/grimoire_of_the_loyal"},{"predicate":{"custom_model_data":1003},"model":"item/gray_dye"}]}
