@@ -1,1 +1,1 @@
-{"parent":"minecraft:item/paper","textures":{"layer0":"_iainternal:icons/icon_search"}}
+{"parent":"minecraft:item/generated","textures":{"layer0":"ia:61"}}
