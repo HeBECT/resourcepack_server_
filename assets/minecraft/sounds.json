@@ -1,8 +1,127 @@
 {
-  "entity.wolf.howl": {
+  "umbraeus_idle_sfx": {
     "sounds": [
-      "mob/wolf/howl1",
-      "mob/wolf/howl2"
+      "custom/umbraeus_idle_sfx"
+    ]
+  },
+  "umbraeus_left_atomic_cross_sfx": {
+    "sounds": [
+      "custom/umbraeus_left_atomic_cross_sfx"
+    ]
+  },
+  "umbraeus_left_missile_sfx": {
+    "sounds": [
+      "custom/umbraeus_left_missile_sfx"
+    ]
+  },
+  "umbraeus_left_shout_sfx": {
+    "sounds": [
+      "custom/umbraeus_left_shout_sfx"
+    ]
+  },
+  "umbraeus_mid_atomic_sfx": {
+    "sounds": [
+      "custom/umbraeus_mid_atomic_sfx"
+    ]
+  },
+  "umbraeus_mid_meteor_sfx": {
+    "sounds": [
+      "custom/umbraeus_mid_meteor_sfx"
+    ]
+  },
+  "umbraeus_mid_singularity_sfx": {
+    "sounds": [
+      "custom/umbraeus_mid_singularity_sfx"
+    ]
+  },
+  "umbraeus_right_atomic_sfx": {
+    "sounds": [
+      "custom/umbraeus_right_atomic_sfx"
+    ]
+  },
+  "umbraeus_right_summon_sfx": {
+    "sounds": [
+      "custom/umbraeus_right_summon_sfx"
+    ]
+  },
+  "umbraeus_right_vacuum_sfx": {
+    "sounds": [
+      "custom/umbraeus_right_vacuum_sfx"
+    ]
+  },
+  "umbraeus_spawn_sfx": {
+    "sounds": [
+      "custom/umbraeus_spawn_sfx"
+    ]
+  },
+  "umbraeus_death_sfx": {
+    "sounds": [
+      "custom/umbraeus_death_sfx"
+    ]
+  },
+  "umbraeus_meteor_1_sfx": {
+    "sounds": [
+      "custom/umbraeus_meteor_1_sfx"
+    ]
+  },
+  "umbraeus_meteor_2_sfx": {
+    "sounds": [
+      "custom/umbraeus_meteor_2_sfx"
+    ]
+  },
+  "umbraeus_meteor_3_sfx": {
+    "sounds": [
+      "custom/umbraeus_meteor_3_sfx"
+    ]
+  },
+  "umbraeus_meteor_4_sfx": {
+    "sounds": [
+      "custom/umbraeus_meteor_4_sfx"
+    ]
+  },
+  "umbraeus_minion_attack_1_sfx": {
+    "sounds": [
+      "custom/umbraeus_minion_attack_1_sfx"
+    ]
+  },
+  "umbraeus_minion_attack_2_sfx": {
+    "sounds": [
+      "custom/umbraeus_minion_attack_2_sfx"
+    ]
+  },
+  "umbraeus_minion_damaged_1_sfx": {
+    "sounds": [
+      "custom/umbraeus_minion_damaged_1_sfx"
+    ]
+  },
+  "umbraeus_minion_damaged_2_sfx": {
+    "sounds": [
+      "custom/umbraeus_minion_damaged_2_sfx"
+    ]
+  },
+  "umbraeus_minion_death_sfx": {
+    "sounds": [
+      "custom/umbraeus_minion_death_sfx"
+    ]
+  },
+  "umbraeus_minion_idle_2_sfx": {
+    "sounds": [
+      "custom/umbraeus_minion_idle_2_sfx"
+    ]
+  },
+  "umbraeus_minion_idle_loop_sfx": {
+    "sounds": [
+      "custom/umbraeus_minion_idle_loop_sfx"
+    ]
+  },
+  "umbraeus_minion_spawn_sfx": {
+    "sounds": [
+      "custom/umbraeus_minion_spawn_sfx"
+    ]
+  },
+  "umbraeus_singularity_explosion_sfx": {
+    "sounds": [
+      "custom/umbraeus_singularity_explosion_sfx"
     ]
   }
 }

@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/handheld","textures":{"layer0":"minecraft:item/iron_axe"},"overrides":[{"predicate":{"custom_model_data":10000},"model":"elitecreatures:diablo_weapon_set/axe"},{"predicate":{"custom_model_data":10001},"model":"elitecreatures:diablo_weapon_set/hammer"},{"predicate":{"custom_model_data":10002},"model":"item/iron_axe"}]}
